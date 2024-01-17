@@ -1,0 +1,23 @@
+﻿@page "/Weather"
+@using WeatherForcast.UI.Models.Domain
+@inject HttpClient HttpClient
+@inject IConfiguration Configuration
+<h3>Weather1</h3>
+
+<div>@weatherData</div>
+
+@code {
+    private string weatherData;
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        string apiBaseUrl = Configuration["ApiBaseUrl"];
+        var response = await HttpClient.GetStringAsync($"{apiBaseUrl}/City");
+        weatherData = response;
+       
+        
+    }
+
+
+}

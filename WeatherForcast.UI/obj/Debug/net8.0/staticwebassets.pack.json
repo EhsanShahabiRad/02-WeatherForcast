@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\obj\\Debug\\net8.0\\compressed\\1j51xxylv9.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WeatherForcast.UI.styles.css",
+      "PackagePath": "staticwebassets\\WeatherForcast.UI.styles.css"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "D:\\03-Projects\\01-Practice\\Fundamental C# Practice\\11-OpenWeatherMap.API\\WeatherForcast.UI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WeatherForcast.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WeatherForcast.UI.props",
+      "PackagePath": "build\\WeatherForcast.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WeatherForcast.UI.props",
+      "PackagePath": "buildMultiTargeting\\WeatherForcast.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WeatherForcast.UI.props",
+      "PackagePath": "buildTransitive\\WeatherForcast.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

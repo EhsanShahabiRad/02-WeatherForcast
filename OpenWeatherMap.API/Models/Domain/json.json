@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 12.375,
+    "lat": 51.342
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "broken clouds",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 271.96,
+    "feels_like": 265.84,
+    "temp_min": 270.62,
+    "temp_max": 273.01,
+    "pressure": 1021,
+    "humidity": 66
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 6.71,
+    "deg": 50,
+    "gust": 6.71
+  },
+  "clouds": { "all": 75 },
+  "dt": 1704632465,
+  "sys": {
+    "type": 2,
+    "id": 18814,
+    "country": "DE",
+    "sunrise": 1704611639,
+    "sunset": 1704640713
+  },
+  "timezone": 3600,
+  "id": 6548737,
+  "name": "Leipzig",
+  "cod": 200
+}
